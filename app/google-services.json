@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "946849522557",
+    "firebase_url": "https://carfirebaseproject-f48b1.firebaseio.com",
+    "project_id": "carfirebaseproject-f48b1",
+    "storage_bucket": "carfirebaseproject-f48b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946849522557:android:9509908ede545cc8",
+        "android_client_info": {
+          "package_name": "com.example.uhylabr.car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946849522557-icov19ro7su2b0ncmpn6oeab67gsuuts.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uhylabr.car",
+            "certificate_hash": "613d948cfbe4b206ee8cab80bcac9527ec78e2d9"
+          }
+        },
+        {
+          "client_id": "946849522557-1djs1t7v91lc75g1o49ru2pak65elkdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSXaXtW9QwQ6j--1ahT7xggFwlc8fRdP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946849522557-1djs1t7v91lc75g1o49ru2pak65elkdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
